@@ -1,8 +1,8 @@
 package kennitala
 
 import (
-	kennitalaerrors "kennitala/kennitalaerror"
-	utils "kennitala/utils"
+	kennitalaerrors "github.com/johannbrynjar/kennitala/kennitalaerror"
+	utils "github.com/johannbrynjar/kennitala/utils"
 )
 
 var (
